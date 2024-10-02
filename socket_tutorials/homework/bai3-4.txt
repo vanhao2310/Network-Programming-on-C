@@ -1,0 +1,11 @@
+MSSV dung int: 4byte
+Hoten: String (n byte)
+Ngay sinh: String 10byte
+    cach 2:
+        ngay char 1byte
+        thang char 1 byte
+        nam short 2 byte
+        => 4byte
+
+diem float: 4byte
+=> n + 12 byte
